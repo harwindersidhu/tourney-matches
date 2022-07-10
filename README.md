@@ -43,5 +43,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Screenshots
 
-- By the end of the module, our React App will look like this:
+- Our React App will look like this:
   - !["TourneyMatches"](./docs/TourneyMatches.png)
