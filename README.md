@@ -44,4 +44,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Screenshots
 
 - Our React App will look like this:
-  - !["TourneyMatches"](./docs/TourneyMatches.png)
+ !["TourneyMatches"](./docs/TourneyMatches.png)
